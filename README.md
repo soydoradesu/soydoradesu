@@ -12,7 +12,7 @@
 <p align="center" style="padding-top:20px">
   Dedicated and innovative individual passionate about the <b>creative world</b> and <b>technology</b>. Currently pursuing my Computer Science degree at Universitas Indonesia, I thrive in environments where <b>creativity meets technology</b>. I am eager to contribute my innovative ideas and technical expertise to exciting projects.
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=soydoradesu&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
   <img src="https://myreadme.vercel.app/api/embed/soydoradesu?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
