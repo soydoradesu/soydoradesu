@@ -10,13 +10,15 @@
 
 <!-- Description -->
 <p align="center" style="padding-top:20px">
-  Dedicated and innovative individual passionate about the <b>creative world</b> and <b>technology</b>. Currently pursuing my Computer Science degree at Universitas Indonesia, I thrive in environments where <b>creativity meets technology</b>. I am eager to contribute my innovative ideas and technical expertise to exciting projects.
-<p align="center"> 
+  Dedicated and innovative individual passionate about the <b>creative world</b> and <b>technology</b>. Currently pursuing my Computer Science degree at Universitas Indonesia, I thrive in environments where <b>creativity meets technology</b>. I am eager to contribute my innovative ideas and technical expertise to exciting projects. <br /> <br />
+<a align="center"> 
   <img src="https://komarev.com/ghpvc/?username=soydoradesu&color=brightgreen" alt="watching_count" />
-</p>
-<p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/soydoradesu?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</p>
+</a> <br />
+<a href="https://github.com/soydoradesu">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=soydoradesu&theme=transparent&rank_icon=github&card_width=430&hide_border=true&title_color=ffffff&text_color=909090&hide_title=true&border_color=909090"/>
+<a href="https://github.com/soydoradesu">
+    <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soydoradesu&layout=compact&langs_count=10&theme=transparent&hide_title=true&title_color=ffffff&text_color=909090&border_color=909090&card_width=460&hide_border=true&size_weight=0.5&count_weight=0.5&hide=cmake,dockerfile,shell,css" />
+</a>
 
 <!-- Connect -->
 <h2 align="center">
