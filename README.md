@@ -1,3 +1,8 @@
+<!-- Banner -->
+<picture>
+    <img src="/banner.png" alt="banner"/>
+</picture>
+
 <!-- Heading -->
 <h2 align="center">
   Hola 🙋‍♂️, I'm Valentino (He/Him)
