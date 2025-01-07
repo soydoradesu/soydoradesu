@@ -1,6 +1,6 @@
 <!-- Banner -->
 <picture>
-    <img src="/bannerrrrr.png" alt="banner"/>
+    <img src="/banner.png" alt="banner"/>
 </picture>
 
 <!-- Heading -->
